@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Galaxy with Zoom Effect</title>
-    <link rel="stylesheet" href="style.css?v=1.0.1">
+    <link rel="stylesheet" href="style.css?v=1.0.2">
     <script type="importmap">
     {
       "imports": {
@@ -34,6 +34,6 @@
     <div id="info">
       
     </div>
-    <script type="module" src="script.js?v=1.0.1"></script>
+    <script type="module" src="script.js?v=1.0.2"></script>
 </body>
 </html>
